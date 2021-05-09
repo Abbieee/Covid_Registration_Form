@@ -47,7 +47,7 @@
             </select>
           </div>
 		  <div class="form-group right">
-            <label for="Photo_Id_Number" class="label-title"> Photo_Id_Number*</label>
+            <label for="Photo_Id_Number" class="label-title"> Photo Id Number*</label>
             <input type="text" class="form-input" name="photo_id_number"  id="Photo_Id_Number" placeholder="Enter your Photo_Id_Number" required="required">
           </div>
           
